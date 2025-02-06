@@ -1,4 +1,19 @@
-#comple numbers
+# How many ways to run phyton
+#1 IDLE OR CMD
+#2 Notepad
+#3 development platform (like Vs code or PyCharm 0r........)
+
+
+
+# DATA type 
+#numeric-int,float,complex number ,boolen
+#sequence-list , tuple,string,range
+#set
+#dictionary
+#none
+
+
+#complex numbers
 
 cmp1 = 5 + 3j
 cmp2 = 6 - 3j
@@ -11,10 +26,8 @@ print(cmp1 * cmp2)
 print(cmp1 / cmp2)
 
 print(cmp1 ** cmp2)
-
-#print(cmp1 // cmp2)
-
-#print(cmp1 % cmp2)
+#print(cmp1 // cmp2) #float division doesn't work on complex
+#print(cmp1 % cmp2)  # modules doesn't work on complex numbers
 
 
 bool1 = True
